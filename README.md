@@ -4,19 +4,19 @@ NotePad++ is an innovative cross-platform notepad app developed in C++ with the 
 ## How to Use
 To use NotePad++, follow the instructions below:
 
-###1.Download the Full-Screen Version:
+### 1.Download the Full-Screen Version:
 
 -If you prefer a full-screen experience, download the "full-screen" directory.
 -This version is optimized for large displays and offers a distraction-free writing environment.
-###2.Download the Laptop Version:
+### 2.Download the Laptop Version:
 
 -If you're using a laptop or a smaller screen, download the "locked" directory.
 -This version is designed to fit snugly on your screen without occupying the entire display area.
-###3.Viewing the Code:
+### 3.Viewing the Code:
 
 If you're interested in the Qt C++ code of NotePad++, you can download the "src" directory.
 This directory contains the source code files written in Qt C++.
-####Please note that NotePad++ is based on the Qt GUI framework, which provides cross-platform support and native-like user interfaces. It can run on various operating systems, including Windows, macOS, and Linux.
+#### Please note that NotePad++ is based on the Qt GUI framework, which provides cross-platform support and native-like user interfaces. It can run on various operating systems, including Windows, macOS, and Linux.
 
 ## Design
 
