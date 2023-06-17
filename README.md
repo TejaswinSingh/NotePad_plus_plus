@@ -6,12 +6,12 @@ To use NotePad++, follow the instructions below:
 
 ### 1.Download the Full-Screen Version:
 
--If you prefer a full-screen experience, download the "full-screen" directory.
--This version is optimized for large displays and offers a distraction-free writing environment.
+- If you prefer a full-screen experience, download the "full-screen" directory.
+- This version is optimized for large displays and offers a distraction-free writing environment.
 ### 2.Download the Laptop Version:
 
--If you're using a laptop or a smaller screen, download the "locked" directory.
--This version is designed to fit snugly on your screen without occupying the entire display area.
+- If you're using a laptop or a smaller screen, download the "locked" directory.
+- This version is designed to fit snugly on your screen without occupying the entire display area.
 ### 3.Viewing the Code:
 
 If you're interested in the Qt C++ code of NotePad++, you can download the "src" directory.
