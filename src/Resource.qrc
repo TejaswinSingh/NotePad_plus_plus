@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/copy.jpg</file>
+        <file>img/cut.png</file>
+        <file>img/open.png</file>
+        <file>img/paste.png</file>
+        <file>img/save_as.jpeg</file>
+        <file>img/save_file_disk_open_searsh_loading_clipboard_1513 (1).png</file>
+        <file>img/undo.png</file>
+        <file>img/new.png</file>
+        <file>img/redo (2).png</file>
+        <file>img/info.png</file>
+        <file>img/notepadpro.png</file>
+        <file>img/text-editor.png</file>
+        <file>img/printer.png</file>
+        <file>img/print.png</file>
+        <file>img/emergency-exit.png</file>
+        <file>img/exit.png</file>
+        <file>img/add-image.png</file>
+        <file>img/align-left.png</file>
+        <file>img/center-align.png</file>
+        <file>img/eraser (1).png</file>
+        <file>img/eraser.png</file>
+        <file>img/font.png</file>
+        <file>img/font-size.png</file>
+        <file>img/highlight.png</file>
+        <file>img/justification.png</file>
+        <file>img/photo (1).png</file>
+        <file>img/photo.png</file>
+        <file>img/pngegg.png</file>
+        <file>img/remove.png</file>
+        <file>img/right-align.png</file>
+        <file>img/subscript.png</file>
+        <file>img/text (1).png</file>
+        <file>img/text.png</file>
+        <file>img/log-in (1).png</file>
+        <file>img/log-in.png</file>
+        <file>img/logout (1).png</file>
+        <file>img/logout (2).png</file>
+        <file>img/logout.png</file>
+        <file>img/sign-out.png</file>
+        <file>img/notes.ico</file>
+        <file>img/select.png</file>
+        <file>img/selection.png</file>
+        <file>img/bold.png</file>
+        <file>img/italics.png</file>
+        <file>img/underline.png</file>
+    </qresource>
+</RCC>
